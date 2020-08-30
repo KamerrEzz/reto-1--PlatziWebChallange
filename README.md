@@ -12,6 +12,6 @@ Se me complico al momento un poquito al momento de maquetar, pero lo he consegui
 ## Links
 * [Platzi](https://platzi.com)
 * [Informacion de reto](https://platzi.com/comunidad/platziwebchallange-semana-1-2/)
-* [Platzi](https://platzi.com)
+* [Resultado](https://kamerrezz.github.io/reto-1--PlatziWebChallange/)
 
 ### Gracias ♥ 
